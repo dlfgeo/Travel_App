@@ -9,7 +9,7 @@ openai_api_key = st.text_input('OpenAI API Key', type='password')
 
 #Basic LLM Call
 def generate_response(input_text):
-    llm = OpenAI(temperature=0.1, openai_api_key=openai_api_key)
+    llm = OpenAI(temperature=0.1, openai_api_key=openai_api_key,max_tokens=-1)
     st.info(llm.invoke(input_text))
 
 with st.form('my_form'):
