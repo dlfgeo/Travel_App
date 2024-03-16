@@ -1,0 +1,12 @@
+San Francisco   Pizza
+Karachi   Burgers
+Cairo   Burgers
+Beijing   Burgers
+Paris   Fast Food
+Berlin   Fast Food
+Karachi   Fast Food
+Karachi   Upscale Restaurant
+San Francisco   Upscale Restaurant
+Beijing   Upscale Restaurant
+Dubai   Upscale Restaurant
+Rome   Upscale Restaurant
