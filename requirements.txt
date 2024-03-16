@@ -5,3 +5,8 @@ langchain
 langchain-community
 langchain-openai
 llama-index
+youtube-transcript-api
+faiss-cpu
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
